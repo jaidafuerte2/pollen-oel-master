@@ -1,0 +1,18 @@
+#lang pollen
+
+◊(define-meta title "mito de la hipoglicemia")
+◊hanging-topic[(topic-from-metas metas)]{o baja azúcar en la sangre}
+
+Lastimosamente hay muchos mitos que desprestigian al ayuno pero son falsos pues no tienen sustento científico. 
+
+Uno de los mitos más populares es que ◊em{ayunar nos quitará glucosa y energía} para nuestras actividades.  Sin embargo esto no es cierto porque,  cuando no comemos, el cuerpo puede usar sus reservas de grasa.
+
+◊indented{◊image[#:width "70%" #:border #f "mito-del-cansancio.jpg"]}
+
+Lo que sucede es que entre ◊em{6 y 24 horas} después de iniciado el ayuno, el hígado puede liberar sus reservas de glucosa. Estas reservas duran unas ◊em{24 horas}.
+
+◊indented{◊image[#:width "70%" #:border #f "higado-libera-glucosa.jpg"]}
+
+Pero cuando se acaban las reservas de glucosa del hígado, el ◊em{tejido adiposo} libera sus reservas de grasa y el hígado puede producir glucosa a partir del ◊em{glicerol que es parte de las grasas} (o triglicéridos) que libera el tejido adiposo. Esto mantiene los niveles de glucosa y energía normales.
+
+Sin embargo ◊em{los triglicéridos} (o grasas del tejido adiposo) también contienen ◊em{ácidos grasos} que pueden proveer de energía a la mayoría de tejidos del cuerpo. Por eso en 1960, el doctor Garfield Duncan, en Filadelfia, documentó la sensación de vigor y bienestar que presentaron un grupo de 107 pacientes obesos que ayunaron durante 6 meses para perder peso.  No se sintieron débiles en ningún momento porque sus niveles de glucosa y energía eran normales.

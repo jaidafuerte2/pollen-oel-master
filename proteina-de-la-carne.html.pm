@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "proteina de la carne")
+◊hanging-topic[(topic-from-metas metas)]{los estudios muestran que sí engorda}
+
+Con respecto a la ◊em{proteína cárnica}, estudios en Norteamérica concluyen que la ◊em{carne roja}, procesada y sin procesar, está asociada con un aumento de peso incluso mayor que el de los postres azucarados.
+
+◊indented{◊image[#:width "40%" #:border #f "carne-roja.jpg"]}
+
+Mientras que en Europa, algunas investigaciones concluyeron que también las ◊em{carnes de aves} nos suben de peso. 
+
+◊indented{◊image[#:width "40%" #:border #f "carne-blanca.jpg"]}
+
+Así que en el caso de las proteínas cárnicas parece que predomina el efecto engordador de ◊xref{las incretinas}.

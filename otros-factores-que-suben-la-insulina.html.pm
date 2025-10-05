@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "otros factores que suben la insulina")
+◊hanging-topic[(topic-from-metas metas)]{Hay poblaciones que comen muchos carbohidratos pero no tienen obesidad}
+
+Por ejemplo el tipo de carbohidratos es muy importante. De hecho, el mismo estudio INTERMAP, que comparó la dieta de varios países, concluyó que los chinos comían más carbohidratos en general, pero eran los menos obesos porque usaban poco ◊em{azúcar}. Parece ser que el ◊em{azúcar} engorda más que otros carbohidratos.
+
+Por eso hay poblaciones que llevan una dieta alta en carbohidratos no procesados pero no tienen obesidad. Por ejemplo los residentes de ◊em{Kitava}, una isla en ◊em{Nueva Guinea}, al norte de ◊em{Australia}.
+
+◊margin-note{Residentes de Kitava al Norte de Australia}
+
+◊indented{◊image[#:width "70%" #:border #f "kitava.jpg"]}
+
+Ellos basan su alimentación en carbohidratos no procesados pero con mucho almidón como el camote, la yuca y otros tubérculos pero no tienen obesidad.

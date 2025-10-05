@@ -1,0 +1,10 @@
+#lang pollen
+
+◊(define-meta title "agradecimientos")
+◊hanging-topic[(topic-from-metas metas)]{Sentimos un especial sentimiento de gratitud a los participantes de varios grupos de la tercera edad del programa "60 y Piquito"}
+
+En primer lugar, sin pensarlo dos veces, de parte de la ◊link["https://corporacioncovsa.blogspot.com/p/nosotros.html"]{◊em{Corporación Médica COVSA}}, agradecemos  a todos los adultos mayores y participantes del programa “◊em{60 y Piquito}” del municipio de Quito a quienes dimos nuestras charlas sobre nutrición. Sus preguntas, dudas y rostros de asombro nos ayudaron a modelar el contenido de este libro. También muchos participantes, siguiendo los consejos de nuestras charlas, lograron tener mejores hábitos alimenticios y lograron mejorar su salud. Esto nos motiva mucho porque sentimos que pudimos transmitir un contenido que es muy útil.
+
+De mi parte, agradezco a las autoridades de ◊link["https://corporacioncovsa.blogspot.com/p/nosotros.html"]{◊em{la Corporación de Colaboradores y Voluntarios de la Salud COVSA}}, a la licenciada Josefina Rosero (Secretaria General), al doctor César Bermeo (Presidente) y al doctor Iván Villafuerte (Director Ejecutivo) porque nunca dudaron del éxito de este proyecto y con su apoyo ayudaron a que este libro se publique.
+
+Y en tercer lugar (pero no menos importante) agradezco a los creadores del software, las aplicaciones y la tecnología -en general- que ayudaron a crear y publicar este libro digital: ◊em{Pollen, Scribble, Racket, Github y Github Pages}.  

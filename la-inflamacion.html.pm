@@ -1,0 +1,24 @@
+#lang pollen
+
+◊(define-meta title "La inflamacion")
+◊hanging-topic[(topic-from-metas metas)]{Nuestro propio ejército protector}
+
+La inflamación es un mecanismo de defensa de nuestro cuerpo frente a una agresión que puede ser:
+
+◊numbered-list{
+◊em{Mecánica}: como cuando sufrimos un golpe o un corte, o puede ser
+
+
+◊em{Biológica}: como cuando tenemos una infección causada por bacterias, parásitos o virus.}
+
+Podríamos pensar en la inflamación como nuestro propio ◊em{ejército protector}.
+
+Supongamos que un cuchillo corta ligeramente nuestra mano. Por esta agresión, la zona dañada produce inmediatamente sustancias que se llaman ◊em{citoquinas}. 
+
+◊indented{◊image[#:width "70%" #:border #f "dedo-cortado.jpg"]}
+
+◊margin-note{◊image[#:width "80%" #:border #f "mensaje-soldado.jpg"]}
+
+Estas ◊em{citoquinas} son como mensajes que pasan a la circulación sanguínea y les dicen a los soldados de nuestra sangre (o ◊em{glóbulos blancos}) que deben ir a la zona afectada para protegernos de agentes externos y así el  tejido se puede regenerar con normalidad.
+
+Pero ¿◊em{En qué se relacionan la inflamación y la obesidad}?

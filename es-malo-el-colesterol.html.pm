@@ -1,0 +1,26 @@
+#lang pollen
+
+◊(define-meta title "es malo el colesterol")
+◊hanging-topic[(topic-from-metas metas)]{Si, en parte.}
+
+El problema es que, como en la obesidad se forman muchas ◊em{lipoproteínas VLDL}, al llegar al tejido adiposo y dejar sus triglicéridos, se transforman en muchas ◊em{lipoproteínas LDL}.
+
+◊gap[1]
+
+◊margin-note{Arteria que acumuló colesterol}
+
+◊indented{◊image[#:width "50%" #:border #t "arteria-colesterol.jpg"]}
+
+◊margin-note{◊image[#:width "100%" #:border #f "infarto.jpg"]}
+
+Estas lipoproteínas LDL tienen un montón de ◊em{colesterol} y pueden dejarlo en las arterias, aumentando el riesgo de que el ◊em{colesterol} se acumule en ellas, obstruya el paso de sangre y se produzcan ◊em{infartos} (muerte de órganos y tejidos por falta de sangre y oxígeno).
+
+◊em{Por eso se dice que el colesterol que está en las lipoproteínas LDL es malo}.
+
+◊margin-note{¿Y el colesterol bueno?}
+
+En cambio las ◊em{lipoproteínas HDL} captan el exceso  de colesterol que hay en los órganos del cuerpo y lo llevan de retorno al hígado. Así evitan que se acumule colesterol en las ◊em{arterias} y ◊em{evitan infartos}.
+
+◊em{Por eso se dice que el colesterol que está en las lipoproteínas HDL es bueno}.
+
+No se sabe bien por qué disminuyen las ◊em{lipoproteínas HDL} en la obesidad, pero se cree que las membranas celulares de las personas obesas pierden el receptor de ◊em{lipoproteínas HDL} y las células no pueden entregar su exceso de colesterol, entonces estas lipoproteínas no se pueden formar y disminuye su cantidad.   

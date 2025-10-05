@@ -1,0 +1,9 @@
+#lang pollen
+
+◊(define-meta title "acerca de este libro")
+◊(chapter-from-metas metas)
+
+◊margin-note{En esta sección puedes conocer un poco más acerca de este libro}
+
+◊indented{◊image[#:border #t #:width "70%" "oel-cubierta1.jpg"]}
+

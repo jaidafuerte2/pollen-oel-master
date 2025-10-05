@@ -1,0 +1,8 @@
+#lang pollen
+
+◊(define-meta title "dedicatoria")
+◊(section-from-metas metas)
+
+◊indented{◊em{"Este libro está dedicado con respeto, admiración y consideración al gran espíritu vivo en los procesos recursivos"}}
+
+◊font-scale[2]{(λ ⚕)}

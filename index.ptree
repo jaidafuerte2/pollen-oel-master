@@ -1,0 +1,135 @@
+#lang pollen
+
+index.html
+toc.html
+prefacio-por-el-autor.html
+◊acerca-de-este-libro.html{
+                           el-problema-de-la-obesidad.html
+                           el-objetivo-de-este-libro.html
+                           a-quien-va-dirigido-este-libro.html
+                           como-programamos-este-libro.html
+                           agradecimientos.html}
+por-favor-paga-por-este-libro.html
+dedicatoria.html
+◊introduccion.html{
+                   la-hormona-insulina.html
+                   resistencia-a-la-insulina.html
+                   estado-inflamatorio-de-la-obesidad.html
+                   objetivos-de-bajar-de-peso.html}
+◊el-error-de-reducir-calorias.html{
+                                   el-estudio-de-la-salud-de-las-mujeres.html
+                                   por-que-comer-menos-no-ayuda-a-adelgazar.html
+                                   el-experimento-del-hambre.html
+                                   reducir-calorias-aumenta-el-apetito.html
+                                   resumen-de-reducir-calorias.html}
+◊comer-mucho-no-necesariamente-engorda.html{
+                                            los-estudios-acerca-de-la-sobre-alimentacion.html
+                                            engordar-no-es-tan-sencillo.html
+                                            el-peso-de-referencia.html
+                                            control-del-peso-de-referencia.html}
+◊la-teoria-hormonal-de-la-obesidad.html{
+                                        que-hace-la-insulina.html
+                                        causa-obesidad-la-insulina.html}
+◊investigaciones-sobre-la-insulina.html{
+                                        investigaciones-en-diabeticos.html
+                                        investigaciones-en-diabeticos-sin-insulina.html
+                                        investigaciones-en-no-diabeticos.html
+                                        poca-insulina-adelgaza.html
+                                        entonces-la-insulina-engorda.html}
+◊dieta-atkins-baja-en-carbohidratos.html{
+                                         la-paradoja-del-comedor-de-arroz.html
+                                         la-dieta-atkins.html
+                                         otros-factores-que-suben-la-insulina.html
+                                         conclusion-sobre-la-dieta-atkins.html}
+◊la-resistencia-a-la-insulina.html{
+                                   como-se-produce-la-resistencia-a-la-insulina.html
+                                   por-que-se-produce-resistencia-a-la-insulina.html
+                                   resistencia-a-hormonas.html
+                                   resistencia-a-otras-sustancias.html
+                                   comer-demasiado-causa-resistencia-a-la-insulina.html
+                                   enfermedades-por-resistencia-a-la-insulina.html}
+◊diabetes-tipo-dos-y-obesidad.html{
+                                   diabetes-tipo-dos-y-resistencia-a-la-insulina.html
+                                   diferencia-entre-diabetes-y-resistencia-a-la-insulina.html
+                                   peligros-de-la-diabetes.html}
+◊higado-graso-y-obesidad.html{
+                              introduccion-al-higado-graso.html
+                              paradoja-del-comedor-de-arroz.html
+                              la-sacarosa.html
+                              fructosa-y-resistencia-a-la-insulina.html
+                              frutas-y-fructosa.html}
+◊y-los-edulcorantes.html{
+                         los-edulcorantes-tienen-beneficios.html
+                         mucho-edulcorante-si-engorda.html
+                         por-que-engordan-los-edulcorantes.html
+                         bebidas-light-y-obesidad.html}
+◊presion-alta-y-obesidad.html{
+                              insulina-y-noradrenalina.html
+                              calorias-y-noradrenalina.html
+                              la-insulina-retiene-sodio.html}
+◊colesterol-obesidad-y-trigliceridos.html{
+                                          las-grasas-de-nuestro-cuerpo.html
+                                          grasas-y-lipoproteinas.html
+                                          estructura-de-las-lipoproteinas.html
+                                          tipos-de-lipoproteinas.html
+                                          funcion-de-las-lipoproteinas.html
+                                          es-malo-el-colesterol.html}
+◊inflamacion-y-obesidad.html{
+                             tejido-adiposo.html
+                             la-inflamacion.html
+                             tejido-adiposo-e-inflamacion.html}
+◊artritis-y-obesidad.html{
+                          articulaciones-y-cartilago.html
+                          inflamacion-del-cartilago.html
+                          obesidad-y-artritis-de-hombro.html}
+◊infartos-y-obesidad.html{
+                          infartos-e-inflamacion.html
+                          lesiones-de-las-arterias.html
+                          exceso-de-inflamacion-e-infartos.html}
+◊el-miedo-a-las-grasas.html{
+                            asociacion-vs-causalidad.html
+                            asociacion-de-colesterol-con-infartos.html
+                            mitos-sobre-las-grasas.html
+                            las-incretinas.html
+                            algunas-grasas-son-saludables.html
+                            grasas-saludables-monoinsaturadas.html
+                            grasas-con-omega-seis.html
+                            algunas-grasas-son-malas.html
+                            las-grasas-saturadas-naturales.html}
+◊proteinas-y-obesidad.html{
+                           proteinas-e-incretinas.html
+                           proteina-de-la-carne.html
+                           proteina-de-la-leche.html
+                           carnes-vs-lacteos.html}
+◊carbohidratos-y-fibra.html{
+                            carbohidratos-procesados.html
+                            la-fibra-alimentaria.html
+                            otros-beneficios-de-la-fibra.html
+                            carbohidratos-refinados.html
+                            conclusion-sobre-los-carbohidratos.html}
+◊que-debemos-comer-para-adelgazar.html{
+                                       evitar-el-azucar.html
+                                       frutas-vs-azucar.html
+                                       y-de-postre.html
+                                       y-para-el-desayuno.html
+                                       bebidas-adecuadas.html
+                                       evitar-granos-refinados.html
+                                       moderar-ingesta-de-proteinas.html
+                                       comer-mas-grasas-naturales.html
+                                       comer-menos-grasas-procesadas.html
+                                       grasas-omega-tres.html
+                                       comer-mas-fibra.html
+                                       en-resumen.html}
+◊ayuno-intermitente.html{
+                         con-que-frecuencia-comer.html
+                         que-es-ayunar.html
+                         ayuno-16-8.html
+                         mitos-sobre-el-ayuno.html
+                         ayunos-largos.html
+                         mito-de-la-hipoglicemia.html
+                         mito-del-agotamiento-cerebral.html
+                         mito-de-perder-musculo.html
+                         mito-del-metabolismo-lento.html}
+notas-y-referencias.html
+videos-explicativos.html
+nuestro-tratamiento.html

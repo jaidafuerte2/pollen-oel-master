@@ -1,0 +1,10 @@
+#lang pollen
+
+◊(define-meta title "asociacion de colesterol con infartos")
+◊hanging-topic[(topic-from-metas metas)]{Comer grasas no causa obstrucción de las arterias}
+
+Así mismo, en una arteria tapada si hay mucho colesterol, pero él colesterol ◊em{no es la causa} inicial ni fundamental de que esta arteria se obstruya. El colesterol solo es parte de una respuesta inflamatoria excesiva para regenerar esta arteria (porque las memebranas de las células de las arterias tienen colesterol. Ver ◊xref{lesiones de las arterias})
+
+◊indented{◊image[#:width "50%" #:border #f "arteria-colesterol.jpg"]}
+
+Es decir, el colesterol está ◊em{asociado} a la obstrucción de las arterias pero ◊em{no es la causa} inicial ni fundamental. Esta mala interpretación entre asociación y causalidad parece pequeña, pero impactó mucho en la  nutrición moderna, porque se crearon mitos para desprestigiar y evitar que comamos grasas (porque erróneamente se creía que comer grasas ◊em{causa} que se obstruyan las arterias).

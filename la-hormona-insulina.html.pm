@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define-meta title "la hormona insulina")
+◊hanging-topic[(topic-from-metas metas)]{La hormona que nos engorda}
+
+◊em{La insulina} es una hormona que se produce en ◊em{el páncreas} cada vez que comemos y una de sus funciones es aumentar nuestras reservas de grasa. Por eso, en parte, comer mucho si nos engorda. 
+
+◊margin-note{el páncreas se encuentra en el abdomen y produce insulina}
+
+◊indented{◊image[#:border #t "pancreas.jpg"]}
+
+Pero el peso de una persona también depende del tipo de comida y de la frecuencia con la que come. Porque hay alimentos que elevan la insulina más que otros y porque comer con mucha frecuencia estimula al páncreas para que libere insulina constantemente  y esto nos hace  engordar.

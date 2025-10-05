@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "frutas vs azucar")
+◊hanging-topic[(topic-from-metas metas)]{las frutas pueden ser saludables}
+
+Que la ◊link["fructosa-y-resistencia-a-la-insulina.html"]{◊em{fructosa}} del azúcar cause ◊xref{higado graso y obesidad} no significa que comer ◊em{frutas} engorda pues las ◊em{frutas enteras} (no en jugo) tienen mucha ◊link["la-fibra-alimentaria.html"]{◊em{fibra}} (lo que es saludable y evita que engordemos). Además, las frutas aportan pequeñas cantidades de fructosa, solo 15 o 20 gramos diarios y esto no da problemas.
+
+En cambio ◊em{el azúcar, la miel y la panela} tienen mucha ◊link["fructosa-y-resistencia-a-la-insulina.html"]{◊em{fructosa}}. De hecho, casi el 50% de la sacarosa (o azúcar de mesa) es ◊link["fructosa-y-resistencia-a-la-insulina.html"]{◊em{fructosa}}. Por eso debemos evitar la comida endulzada con azúcar como la salsa de tomate, la salsa barbacoa y de ciruela, entre otras.
+
+◊indented{◊image[#:width "60%" #:border #f "miel-panela.jpg"]}
+
+◊margin-note{◊image[#:width "70%" #:border #f "galleta-azucar.jpg"]}
+
+También son postres azucarados las galletas, las tartas, los pudines, los helados y los caramelos.

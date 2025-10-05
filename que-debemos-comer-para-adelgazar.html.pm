@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define-meta title "que debemos comer para adelgazar")
+◊(chapter-from-metas metas)
+
+◊margin-note{Aunque todos los alimentos engordan si se comen en exceso, unos engordan más que otros}
+
+◊indented{◊image[#:width "100%" #:border #f "que-comer.jpg"]}
+
+Lo que acabamos de explicar sobre ◊link["carbohidratos-y-fibra.html"]{◊em{los carbohidratos}} y ◊xref{la fibra alimentaria} es muy importante porque explica por qué debemos evitar los carbohidratos procesados para bajar de peso. Y, aunque es cierto que ◊em{todos los alimentos} engordan si se comen en exceso, los carbohidratos refinados (sin fibra) son los que más pueden subirnos de peso.
+
+De hecho, el primer paso (◊em{no el único}) para adelgazar, es evitar comer azúcar, miel y panela.

@@ -1,0 +1,16 @@
+#lang pollen
+
+◊(define-meta title "por que comer menos no ayuda a adelgazar")
+◊hanging-topic[(topic-from-metas metas)]{porque el metabolismo se vuelve lento}
+
+La razón de esto es que cuando comemos menos calorías, también disminuye el metabolismo. El ◊em{metabolismo basal o metabolismo} es la cantidad de calorías que nuestro cuerpo usa para sus funciones básicas de mantenimiento en condiciones de reposo.
+
+Estas funciones son la respiración, la temperatura, el latido del corazón, la digestión, la cognición y el pensamiento, la generación de pelo y uñas, entre otras.
+
+◊indented{◊image[#:border #t #:width "50%" "funciones-basicas.jpg"]}
+
+Y aunque muchas veces pensamos erróneamente que la mayor parte calorías que ingerimos se usan para actividades físicas o deportivas, esto no es así. La verdad es que entre el ◊em{50 y 70%} de calorías que ingerimos se usan para nuestras funciones básicas de mantenimiento.
+
+El problema es que si reducimos la cantidad de calorías que comemos, el cuerpo empieza a usar menos calorías para sus funciones básicas y ya no necesita tomar calorías de la grasa del cuerpo y dejamos de adelgazar.
+
+Es decir, ◊em{cuando comemos menos calorías, nuestro metabolismo se vuelve lento y  dejamos de bajar de peso}.

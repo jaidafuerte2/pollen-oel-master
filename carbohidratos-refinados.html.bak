@@ -1,0 +1,8 @@
+#lang pollen
+
+◊(define-meta title "carbohidratos refinados")
+◊hanging-topic[(topic-from-metas metas)]{como el azúcar y la harina blanca}
+
+En cambio los ◊em{carbohidratos procesados (o refinados)} sin fibra, como el azúcar y la harina blanca, se absorben muy rápido en el intestino. Esto eleva mucho (y muy rápido) la glucosa de la sangre y ◊em{amplifica el efecto engordador de la insulina}(la hormona que aumenta nuestras reservas de grasa. Ver ¿◊xref{que hace la insulina?)}.
+
+◊indented{◊image[#:width "50%" #:border #f "azucar-harina.jpg"]}

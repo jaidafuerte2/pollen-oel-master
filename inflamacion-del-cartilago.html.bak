@@ -1,0 +1,20 @@
+#lang pollen
+
+◊(define-meta title "inflamacion del cartilago")
+◊hanging-topic[(topic-from-metas metas)]{El cartílago se inflama por exceso de presión}
+
+Lastimosamente hay situaciones que inflaman el cartílago y alteran su equilibrio. Es decir ◊em{se degrada más de lo que se repone}. Por ejemplo, en la obesidad algunas articulaciones soportan demasiado peso, lo que ◊em{inflama su cartílago}. 
+
+◊indented{◊image[#:width "85%" #:border #f "artritis-rodilla.jpg"]}
+
+Esto sucede porque ◊xref{la inflamacion} es un mecanismo de defensa y reparación frente a una agresión que puede ser mecánica como el exceso de presión.
+
+El problema es que si este exceso de presión continúa por mucho tiempo, ◊em{la inflamación} se prolonga y se producen más citoquinas de lo habitual, lo que puede dañar ◊em{el cartílago}. Esto sucede porque tantas citoquinas disminuyen la actividad reparadora de los condrocitos, impidiendo la formación de nuevo: 
+
+◊numbered-list{
+Colágeno y
+
+
+Proteoglicanos.}
+
+◊em{Sustancias que, como indicamos antes, son necesarias para formar y regenerar el cartílago}.

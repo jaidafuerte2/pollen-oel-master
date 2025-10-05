@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "la teoria hormonal de la obesidad")
+◊(chapter-from-metas metas)
+
+◊margin-note{Las personas que usan insulina generalmente engordan}
+
+◊indented{◊image[#:width "70%" #:border #f "teoria-hormonal.png"]}
+
+Entonces, dado que la ◊em{insulina} es una hormona de almacenamiento por excelencia,  se cree que esta hormona controla ◊em{las reservas de grasa y el peso de referencia del cuerpo}. De hecho, las personas obesas tienen ◊em{20%} más insulina en sangre que las personas delgadas. 
+
+La Insulina es una hormona que se produce en el páncreas cada vez que comemos cualquier tipo de alimentos como ◊em{carbohidratos, proteínas o grasas}. Pero se produce sobre todo cuando comemos ◊em{carbohidratos} porque estos se digieren en el intestino y pasan a la circulación  en forma de carbohidratos más simples principalmente ◊em{glucosa}.
+
+Sin embargo la sangre no debe tener demasiada ◊em{glucosa} porque esto es tóxico para el propio cuerpo. Así que para reducir y normalizar este exceso, el páncreas produce ◊em{insulina}.

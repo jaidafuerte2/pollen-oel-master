@@ -1,0 +1,16 @@
+#lang pollen
+
+◊(define-meta title "el objetivo de este libro")
+◊hanging-topic[(topic-from-metas metas)]{hanging-topic es una etiqueta en la cabecera}
+
+Hace varios años, cuando fui interno de medicina (el último año de la carrera) en uno de los hospitales de la seguridad social de mi país, tuve que hacer una presentación sobre la diabetes tipo dos frente a los médicos del servicio de medicina interna de dicho hospital.
+Sintiéndome un poco ansioso y queriendo parecer muy “listo”, pensé que hablar sobre el tratamiento farmacológico de la diabetes tipo 2 les iba a dejar sorprendidos a mi tutor de medicina interna y al resto de médicos del servicio.
+Así que por varios minutos me explayé hablando de la insulina, las biguanidas, las sulfonilureas y otros medicamentos hipoglicemiantes (fármacos que bajan la glucosa de la sangre, lo que es muy conveniente porque los diabéticos tienen niveles demasiado altos de glucosa y esto es peligroso).  
+Cuando acabé con mi exposición pensé que iba a recibir una gran ovación. Sin embargo, mi tutor de medicina interna, incluso disgustado me reclamó diciendo: 
+“Hablaste mucho del tratamiento de la diabetes y nada del mecanismo de esta condición ni cómo se produce. Esto no está bien, porque sólo puedes dar un buen tratamiento cuando entiendes una enfermedad. De hecho, cuando entiendes por qué se produce una enfermedad, el tratamiento es obvio”. 
+Estas palabras quedaron en mi mente hasta el día de hoy porque, aunque pueden  sonar un poco complicadas y sofisticadas, sólo tratan sobre un error común (en todas las áreas del conocimiento) que es intentar encontrar la solución a un problema que no se entiende bien. 
+De esta manera, un problema mal entendido o mal planteado, produce una solución –al menos- deficiente, que se aplica sólo en unos pocos casos, pero es una solución de tan baja calidad que no funciona en la gran mayoría de situaciones y no se puede generalizar.
+Entonces, aplicando estas ideas a la nutrición y la obesidad, podemos entender por qué consumir menos calorías y hacer más ejercicio a muy poca gente le ayuda a adelgazar. Porque sin entender el problema de la obesidad a fondo, se asume que reducir calorías es la solución para bajar de peso.
+Sin embargo, las calorías son solo una pequeña parte del problema de la obesidad. De hecho el peso de una persona no sólo depende de las calorías que entran y de las calorías que salen. 
+Cuando entendemos por qué se produce la obesidad, fácilmente nos daremos cuenta por qué el tipo de alimentos y la frecuencia con la que comemos influyen más en el peso de una persona que la cantidad de comida que ingiere y del ejercicio que realiza.
+Es así que el objetivo de este libro es ayudarle al lector a entender cuáles son las verdaderas causas de la obesidad, sus consecuencias, por qué el exceso de peso causa enfermedades y cómo deberíamos alimentarnos para adelgazar y ser saludables.

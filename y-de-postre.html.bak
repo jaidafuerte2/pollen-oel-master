@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define-meta title "y de postre")
+◊hanging-topic[(topic-from-metas metas)]{puede ser frutas o nueces}
+
+Entonces, de postre, en lugar de utilizar alimentos azucarados, podríamos comer frutas frescas de temporada como ◊em{cerezas, frutillas u otras}.
+
+◊indented{◊image[#:width "50%" #:border #f "fresas-cerezas.png"]}
+
+También son aceptables los frutos secos como ◊em{las nueces y las almendras}.
+
+◊indented{◊image[#:width "40%" #:border #f "nueces-almendras.png"]}

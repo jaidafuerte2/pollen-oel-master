@@ -1,0 +1,16 @@
+#lang pollen
+
+◊(define-meta title "el estudio de la salud de las mujeres")
+◊hanging-topic[(topic-from-metas metas)]{uno de los estudios más grandes sobre la reducción calórica}
+
+Por ejemplo, en el año 2006 se publicó una investigación que duró 7 años y que realizó el Instituto Nacional de Salud de los Estados Unidos. En esta investigación participaron cerca de 50.000 mujeres a las que se les dividió en 2 grupos:
+
+◊numbered-list{
+               Al grupo de estudio se le asesoró para comer menos grasas y menos calorías.
+
+               
+               Y al grupo de control se le pidió que siguiera con su alimentación habitual.}
+
+Al final luego de, 7 años de seguimiento, el grupo de estudio (al que se le asesoró para comer menos grasas y menos calorías) logró reducir el consumo de calorías pasando de 1780 a 1440 calorías diarias en promedio y también logró consumir menos  grasas pasando de 38% a 29% del total de calorías ingeridas.
+
+A pesar de esto, aunque las participantes del grupo de estudio redujeron el consumo de grasas y calorías, no lograron bajar más peso que las mujeres del grupo de control que siguieron con su alimentación habitual. Es decir, ◊em{comer menos grasas y menos calorías no les ayudó a bajar de peso}.

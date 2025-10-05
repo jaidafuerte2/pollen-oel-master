@@ -1,0 +1,20 @@
+#lang pollen
+
+◊(define-meta title "control del peso de referencia")
+◊hanging-topic[(topic-from-metas metas)]{Por el hipotálamo}
+
+En 1890,  el doctor Alfred Frohlich de la Universidad de Viena, observó que lesiones en el área cerebral del ◊em{hipotálamo} causaban que las personas engorden mucho. Así se determinó que el hipotálamo regula las ◊em{reservas de grasa y el gasto de calorías del cuerpo}.
+
+◊margin-note{disección del cerebro en la que se apunta al hipotálamo}
+
+◊indented{◊image[#:width "70%" "hipotalamo.jpg"]}
+
+Sin embargo no se sabía cómo lo hacía. Pero, en 1959, el doctor Romaine Harvey  propuso que las células grasas del ◊em{tejido adiposo} producen un ◊em{factor de saciedad} que aumenta mientras hay más  reservas de  grasa y evita que sigamos comiendo para que ya no engordemos. A este factor se le llamó ◊em{leptina}.
+
+Y se propuso que este este factor, la leptina viaja desde las células grasas del ◊em{tejido adiposo} hasta el ◊em{hipotálamo}, desde dónde se enviarán señales para ◊em{disminuir el apetito y aumentar el metabolismo}. Y así evitar que sigamos comiendo para que ya no engordemos.
+
+Así que, para demostrar el efecto adelgazante de la ◊em{leptina}, en 1999, se administró ◊em{leptina exógena} a  un grupo de pacientes obesos esperando que bajen de peso. Pero no lograron adelgazar. Porque, el peso de referencia de una persona obesa si está regulado demasiado alto pero no es por tener poca ◊em{leptina}.
+
+De hecho, las personas obesas tienen mucha ◊em{leptina} pero son resistentes a su efecto de ◊em{disminuir el apetito y las reservas de grasa}. Entonces si la ◊em{leptina} no controla el peso de referencia cabe preguntarnos:
+
+◊center{◊font-scale[2]{¿Qué controla este peso?}}

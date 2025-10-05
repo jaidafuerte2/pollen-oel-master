@@ -1,0 +1,24 @@
+#lang pollen
+
+◊(define-meta title "por favor paga por este libro")
+◊(section-from-metas metas)
+
+◊subhead{¿Por qué pagar por este libro?}
+
+Porque este libro no es gratis ya que se usaron muchos recursos para poder crearlo, programarlo y publicarlo. Sin embargo, puedes leer toda esta obra -de principio a fin- sin pagar nada, gracias a que está auspiciada por ◊link["https://corporacioncovsa.blogspot.com/p/nosotros.html"]{◊em{la Corporación Médica COVSA.}}
+
+◊link["https://corporacioncovsa.blogspot.com/p/nosotros.html"]{◊em{COVSA}} es una fundación (una organización no gubernamental sin fines de lucro) que funciona en Quito-Ecuador y presta servicios médicos de alta calidad a personas de bajos recursos gracias a colaboradores y voluntarios de la sociedad civil que apoyan los proyectos de la corporación.
+
+Es decir, la ◊link["https://corporacioncovsa.blogspot.com/p/nosotros.html"]{◊em{Corporación COVSA}} no recibe ayuda estatal o gubernamental de ningún tipo  y todos sus proyectos son autofinanciados de parte de sus propios miembros voluntarios. A pesar de eso, en la ◊link["https://corporacioncovsa.blogspot.com/p/nosotros.html"]{◊em{corporación COVSA}}, algunos servicios médicos si tienen un precio “simbólico” lo que le ayuda a financiar sus proyectos y servicios médicos para las personas de más bajos recursos.
+
+Esto nos lleva muy sutilmente a nuestro siguiente punto.
+
+◊subhead{¿Cómo pagar por este libro?}
+
+Si ya leíste el libro y te gustó su forma y contenido, la mejor manera de pagar por él es contratando uno de los tratamientos médicos naturales para la obesidad y el sobrepeso que ofrece ◊link["https://corporacioncovsa.blogspot.com/p/nosotros.html"]{◊em{la Corporación COVSA}}. En el siguiente enlace puedes conocer un poco más sobre estos tratamientos:
+
+◊home-link["https://corporacioncovsa.blogspot.com/p/nosotros.html"]{Obesidad tratamiento}
+
+De esta forma, el dinero que logramos recaudar nos ayuda a mantener este libro accesible sin ningún costo. Además ayuda a financiar varios proyectos de ayuda a la comunidad como las brigadas médicas de la corporación en zonas pobres y rurales o incluso las charlas sobre nutrición que damos en los grupos de la tercera edad.
+
+¿Y si no tienes problemas de obesidad o sobrepeso? Probablemente conoces a alguien que si los tenga y podrías dar como regalo uno de nuestros tratamientos. O bueno, al menos comparte este libro con alguien que necesite ayuda para adelgazar.     

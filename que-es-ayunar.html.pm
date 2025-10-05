@@ -1,0 +1,10 @@
+#lang pollen
+
+◊(define-meta title "que es ayunar")
+◊hanging-topic[(topic-from-metas metas)]{Es el período de tiempo que no comemos}
+
+Sin embargo, ayunar no significa que debemos estar días enteros sin comer y pasando hambre. De hecho, cenar a las 8 de la noche y desayunar a las 8 de la mañana ya conlleva un ayuno de 12 horas.
+
+◊indented{◊image[#:width "50%" #:border #f "ayuno-12-12.jpg"]}
+
+Otra opción puede ser postergar el desayuno, por ejemplo, cenando a las 8 de la noche y desayunando a las 10 de la mañana. Este es un ayuno de 14 horas, lo que ya tiene beneficios para la salud (comprobados) y no debería alterar nuestros hábitos de vida. 

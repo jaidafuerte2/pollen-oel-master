@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "comer mas fibra")
+◊hanging-topic[(topic-from-metas metas)]{evita que engordemos}
+
+Por último, pero no menos importante, el quinto paso para bajar de peso es aumentar el consumo de ◊em{fibra}. Esto es importante porque ◊xref{la fibra alimentaria} reduce los picos -en sangre- de ◊xref{la hormona insulina} que causan los carbohidratos y da la sensación de saciedad.
+
+◊indented{◊image[#:width "50%" #:border #f "verduras.jpg"]}
+
+◊margin-note{◊image[#:width "90%" #:border #f "fresas-cerezas.jpg"]}
+
+Son fuente de ◊em{fibra} los alimentos naturales y enteros como las frutas, las verduras, las legumbres, los cereales enteros y los frutos secos.
+
+◊indented{◊image[#:width "50%" #:border #f "granos.jpg"]}

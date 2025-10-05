@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "introduccion")
+◊(chapter-from-metas metas)
+
+◊margin-note{Antes se consideraba que la obesidad era un problema estético. Ahora se sabe que también afecta la salud}
+
+◊indented{◊image[#:border #f #:width "100%" "introduccion.png"]}
+
+Muchas veces pensamos que engordamos por comer demasiado y aplicamos esta misma lógica a la pérdida de peso creyendo que comer poco nos ayudará a adelgazar. ◊em{Pero esto no suele funcionar  porque el peso de una persona no sólo depende de la cantidad de comida}.
+
+El peso de una persona también depende del tipo de alimentos y de la frecuencia con la que come. Por eso muchas personas intentan bajar de peso comiendo poco pero suelen fracasar. O a veces logran adelgazar un poco, por corto tiempo, pero luego vuelven a engordar.
+
+Esto sucede porque reducir la cantidad de comida que ingerimos vuelve lento el metabolismo y esto nos hace engordar. Por eso ahora sabemos que la obesidad no es un problema de cantidad de comida o de calorías. La obesidad es, en realidad, un problema hormonal relacionado con ◊em{la insulina}.  

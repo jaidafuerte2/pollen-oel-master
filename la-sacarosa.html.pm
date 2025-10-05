@@ -1,0 +1,21 @@
+#lang pollen
+
+◊(define-meta title "la sacarosa")
+◊hanging-topic[(topic-from-metas metas)]{La sacarosa o azúcar tiene glucosa y fructosa}
+
+El azúcar de mesa, la miel y la panela son ◊em{sacarosa}. Y la sacarosa se compone de una molécula de ◊em{glucosa} y una de ◊em{fructosa}.
+
+◊indented{◊image[#:width "80%" #:border #f "sacarosa-glucosa-fructosa.jpg"]}
+
+La ◊em{glucosa} puede circular libremente por la sangre y: 
+
+◊numbered-list{
+Llega a ◊em{los tejidos} para proveer de energía a las células del cuerpo o
+
+
+Se guarda en ◊em{el hígado} para usos futuros o 
+
+
+Se almacena en ◊em{el tejido adiposo} como grasa subcutánea o visceral.}
+
+En cambio la ◊em{fructosa} es distinta porque no puede almacenarse en el ◊em{tejido adiposo} y tampoco puede salir a la circulación y proveer de energía a las ◊em{células del cuerpo}.

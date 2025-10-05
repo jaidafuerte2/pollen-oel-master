@@ -1,0 +1,16 @@
+#lang pollen
+
+◊(define-meta title "y para el desayuno")
+◊hanging-topic[(topic-from-metas metas)]{cuando siempre vamos con prisa}
+
+Además, como en el desayuno vamos con prisa, es común que, temprano en la mañana, usemos alimentos procesados, listos para comer, pero con mucho azúcar como las zucaritas de hojuelas de maíz y los pastelillos.
+
+◊margin-note{◊image[#:width "70%" #:border #f "quaker.jpg"]}
+
+También son comunes en el desayuno las mermeladas, los yogures endulzados y la avena instantánea de Quaker.  Todos estos productos nos engordan.
+
+◊margin-note{◊image[#:width "70%" #:border #f "huevo-saludable.jpg"]}
+
+En su lugar  podríamos usar ◊em{avena entera, yogur griego y sobre todo huevos} (que además de ser deliciosos son muy saludables pues tienen vitaminas, minerales y antioxidantes como colina, selenio y luteína).
+
+◊indented{◊image[#:width "50%" #:border #f "avena-entera.jpg"]}

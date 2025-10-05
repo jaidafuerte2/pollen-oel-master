@@ -1,0 +1,18 @@
+#lang pollen
+
+◊(define-meta title "moderar ingesta de proteinas")
+◊hanging-topic[(topic-from-metas metas)]{no evitarlas por completo}
+
+El tercer paso para bajar de peso es ◊link["proteinas-y-obesidad.html"]{◊em{moderar el consumo de proteínas}}. No debemos evitarlas  por completo porque -◊link["proteinas-e-incretinas.html"]{◊em{aunque pueden engordarnos}}- tienen nutrientes y aminoácidos esenciales para tener una buena salud.
+
+◊indented{◊image[#:width "50%" #:border #f "carne-leche.jpg"]}
+
+Por eso las ◊link["proteinas-y-obesidad.html"]{◊em{proteínas}} deben representar entre el ◊em{20 y 30%} de las calorías diarias que comemos.
+
+◊numbered-list{
+Son fuente de proteína animal ◊em{la carne de res y chancho, el pollo, el pescado y los lácteos}.
+
+
+Y son fuente de proteína vegetal las leguminosas como ◊em{el chocho, la arveja, la lenteja, el fréjol y el garbanzo}.}
+
+◊indented{◊image[#:width "50%" #:border #f "granos.jpg"]}

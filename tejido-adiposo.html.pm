@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "tejido adiposo")
+◊hanging-topic[(topic-from-metas metas)]{El tejido adiposo o graso está bajo la piel y entre las vísceras}
+
+Sucede que las personas normalmente tenemos un poco de ◊em{grasa bajo la piel} que se conoce como ◊em{tejido adiposo subcutáneo}.
+
+Sin embargo las personas obesas, también acumulan el exceso de ◊em{grasa entre las vísceras} como intestino, hígado, corazón, páncreas entre otras, formando lo que se conoce como ◊em{tejido adiposo visceral}.
+
+◊indented{◊image[#:width "50%" #:border #t "obesidad-abdominal.jpg"]}
+
+◊margin-note{◊image[#:width "80%" #:border #f "muerte.jpg"]}
+
+Lastimosamente, este ◊em{tejido graso}, que se acumula entre las vísceras -no solo- altera la forma original de nuestro abdomen, también produce una ◊em{respuesta inflamatoria aumentada} que puede dañar nuestros órganos y tejidos.

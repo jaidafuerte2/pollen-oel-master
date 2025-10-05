@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "paradoja del comedor de arroz")
+◊hanging-topic[(topic-from-metas metas)]{Los chinos son delgados aunque comen mucho arroz.}
+
+De hecho, el ◊em{estudio INTERMAP}, que se realizó en los años noventa, comparó la dieta de varios países asiáticos y occidentales y, concluyó que, los chinos eran los que más carbohidratos –en general- comían, pero eran los menos obesos porque ingerían menos ◊em{azúcar}.
+
+Esto es lo que se conoce como la ◊em{paradoja del comedor de arroz asiático}. Aunque los chinos comen mucho arroz –un carbohidrato muy procesado- tienen menos obesidad porque comen poco ◊em{azúcar}.
+
+◊margin-note{◊image[#:width "80%" #:border #f "obeso-higado-graso.jpg"]}
+
+◊gap[1]
+
+Pero ◊em{¿Por qué el azúcar daña tanto al hígado?}

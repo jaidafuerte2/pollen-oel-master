@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "mito de perder musculo")
+◊hanging-topic[(topic-from-metas metas)]{Esto solo pasa cuando tenemos poca grasa corporal}
+
+Otro mito es que ayunar nos restará musculatura. Sin embargo, los músculos solo se consumen cuando los niveles de grasa corporal son muy bajos, menos del 4%.
+
+Para tener una idea, un maratonista de élite, siendo muy delgado, tiene un 8% de grasa corporal. Y a pesar de tener muy poca grasa, esas reservas le ayudarían a sobrevivir sin comer por varias semanas. Por lo que, una persona obesa no debería preocuparse por perder musculatura durante el ayuno porque no le falta grasa, le sobra.
+
+◊indented{◊image[#:width "50%" #:border #f "maratonista-poca-grasa.png"]}
+
+◊margin-note{◊image[#:width "80%" #:border #f "hombre-paleolitico.png"]}
+
+Lo que sucede es que la especie humana tuvo fuertes períodos de escasez desde el paleolítico, así que mantener intacta la musculatura era indispensable para salir a buscar alimento. Por lo que incluso, durante ayunos de varios días, la musculatura se mantiene, mientras disminuye el tejido graso. Esto sucede porque el cuerpo se adapta al ayuno produciendo hormona de crecimiento, una hormona que, en adultos, ayuda a preservar la musculatura y los minerales del hueso.

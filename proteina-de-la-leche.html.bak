@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "proteina de la leche")
+◊hanging-topic[(topic-from-metas metas)]{tiene efecto adelgazante}
+
+Sin embargo, en el caso de ◊em{los lácteos}, pasa algo diferente pues los estudios no los asocian con aumento de peso. De hecho, el estudio ◊em{CARDIA}, que duró diez años, descubrió que comer más lácteos se asocia con una menor incidencia de obesidad.
+
+Además investigaciones en Europa concluyen que ◊em{la leche entera, el queso y la mantequilla} se asocian con una reducción del aumento de peso.
+
+◊indented{◊image[#:width "40%" #:border #f "proteina-lactea.jpg"]}
+
+Mientras que en Norteamérica algunos estudios concluyen que ◊em{la leche y el queso} tienen un efecto neutro sobre el peso, aunque el ◊em{yogur} parece especialmente adelgazante.
+
+Así que en el caso de los lácteos parece que predomina el efecto adelgazante de ◊xref{las incretinas}.

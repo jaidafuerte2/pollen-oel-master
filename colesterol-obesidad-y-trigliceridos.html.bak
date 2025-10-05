@@ -1,0 +1,16 @@
+#lang pollen
+
+◊(define-meta title "colesterol obesidad y trigliceridos")
+◊(chapter-from-metas metas)
+
+◊margin-note{La sangre de una persona con mucho colesterol y triglicéridos tiene una apariencia lechosa}
+
+◊indented{◊image[#:width "80%" #:border #f "suero-lipemico.png"]}
+
+Otra condición muy frecuente en la obesidad es un patrón que se caracteriza por ◊em{el colesterol malo (o LDL) y los triglicéridos aumentados y el colesterol bueno (o HDL) disminuido}.
+
+◊indented{◊image[#:width "70%" #:border #f "ldl-alto-hdl-bajo.png"]}
+
+Estas alteraciones se llaman ◊em{dislipidemias} y aumentan el riesgo de padecer infartos cardíacos y derrames cerebrales.
+
+Pero ◊em{¿Por qué aumentan el colesterol malo y los triglicéridos y por qué disminuye el colesterol bueno en las personas obesas?}

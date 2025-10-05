@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define-meta title "conclusion sobre los carbohidratos")
+◊hanging-topic[(topic-from-metas metas)]{evitar los carbohidratos procesados}
+
+Por eso debemos preferir ◊em{carbohidratos enteros} con fibra como frutas, legumbres, verduras, tubérculos y granos enteros.
+
+◊indented{◊image[#:width "70%" #:border #f "legumbres.jpg"]}
+
+En cambio debemos evitar los ◊em{carbohidratos procesados} (o refinados) como los jugos, el azúcar y los alimentos que se preparan con harina blanca (como panes, pasteles, pastelillos, etc). Pues son alimentos sin fibra, poco saludables y que  nos pueden engordar.
+
+◊indented{◊image[#:width "70%" #:border #f "carbohidrato-procesado.jpg"]}

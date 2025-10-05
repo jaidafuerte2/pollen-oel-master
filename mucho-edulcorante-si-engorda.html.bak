@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define-meta title "mucho edulcorante si engorda")
+◊hanging-topic[(topic-from-metas metas)]{Grandes cantidades no tienen beneficio}
+
+Pero esto cambia, y los edulcorantes no tienen beneficios cuando usamos ◊em{grandes cantidades} como las que hay en las ◊em{bebidas light o de dieta}.
+
+◊indented{◊image[#:width "50%" #:border #f "bebida-light-obesidad.png"]}
+
+De hecho, la doctora Sharon Fowler, de la Universidad de Texas, en el año 2008, dirigió el Estudio Cardíaco de San Antonio e hizo el seguimiento de 5158 adultos durante 8 años y concluyó que:
+
+◊indented{◊em{Las bebidas light aumentan el riesgo de padecer obesidad en un 47%.}}

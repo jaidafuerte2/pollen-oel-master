@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define-meta title "ayuno 16 8")
+◊hanging-topic[(topic-from-metas metas)]{o comer 2 veces al día}
+
+Sin embargo, aunque sólo ayunar, ya es saludable, no necesariamente nos ayudará a adelgazar. Para bajar de peso, también debemos disminuir la cantidad de comida.
+
+◊indented{◊image[#:width "70%" #:border #f "dos-comidas.jpg"]}
+
+Con este objetivo, podríamos eliminar el desayuno de nuestra dieta, teniendo el almuerzo como primera comida a las 12 del medio día y cenando a las 8 de la noche. Esto conlleva un ayuno de 16 horas y disminuir la cantidad de comida (porque dejamos de comer los alimentos del desayuno) ya nos ayudaría a  adelgazar.
+
+Otra opción es eliminar la cena en lugar del desayuno, lo que también conlleva un ayuno de 16 horas (por ejemplo, almorazando a las dos de la tarde, saltándonos la cena y desayunando a las seis de la mañana).

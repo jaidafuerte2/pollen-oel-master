@@ -1,0 +1,18 @@
+#lang pollen
+
+◊(define-meta title "exceso de inflamacion e infartos")
+◊hanging-topic[(topic-from-metas metas)]{Las arterias de una persona obesa pueden acumular mucho colesterol}
+
+El problema es que en la obesidad, el ◊em{exceso de grasa del tejido adiposo} genera muchas citoquinas y ◊em{otras sustancias inflamatorias} por largo tiempo. 
+
+Estas sustancias inflamatorias aumentan ◊xref{la inflamacion} de las arterias lesionadas y no permiten que se regeneren normalmente sino acumulando muchos  ◊em{glóbulos blancos y colesterol}.
+
+◊indented{◊image[#:width "50%" #:border #f "arteria-colesterol.jpg"]}
+
+Además, la pared de esta zona de la arteria (que acumuló muchos glóbulos blancos y colesterol) queda muy debilitada y tiene poca resistencia al flujo de sangre por lo que fácilmente se rompe y sangra. 
+
+◊indented{◊image[#:width "70%" #:border #f "sangre-arteria.jpg"]}
+
+Esta ◊em{sangre} puede producir coágulos que obstruyen esa misma arteria o pueden viajar por la circulación y obstruir el paso de sangre en otro vaso sanguíneo, por ejemplo ◊em{del corazón o el cerebro}, causando ◊em{infartos cardíacos o derrames cerebrales} respectivamente.
+
+◊indented{◊image[#:width "70%" #:border #f "coagulo-arteria.jpg"]}

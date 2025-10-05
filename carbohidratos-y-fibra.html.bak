@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define-meta title "carbohidratos y fibra")
+◊(chapter-from-metas metas)
+
+◊margin-note{Algunos carbohidratos enteros pueden ayudarnos a adelgazar porque tienen mucha fibra}
+
+◊indented{◊image[#:width "60%" #:border #f "carbohidratos-fibra.jpg"]}
+
+Todo lo que explicamos anteriormente sobre ◊link["el-miedo-a-las-grasas.html"]{◊em{las grasas}} y ◊link["proteinas-y-obesidad.html"]{◊em{las proteínas}} es muy importante porque a veces pensamos que sólo los ◊em{carbohidratos} engordan, lo que es falso. Este mito se fundamenta en que los ◊em{carbohidratos} elevan mucho la glucosa de la sangre y por eso también elevan mucho la insulina (la hormona que aumenta nuestras reservas de grasa y nos engorda -Ver ¿◊xref{que hace la insulina}?).
+
+Sin embargo hay investigaciones que concluyen que ciertos ◊em{carbohidratos enteros}, como los cereales integrales, protegen contra la diabetes, una enfermedad, en la que hay altos niveles de glucosa.

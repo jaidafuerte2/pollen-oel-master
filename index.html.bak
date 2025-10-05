@@ -1,0 +1,30 @@
+#lang pollen
+
+◊(define-meta toolbar-blank "true")
+◊(define-meta bumper-blank "true")
+◊(define-meta title "OEL inicio")
+
+
+◊h1{Obesidad en línea
+libro digital}
+
+◊home-overlay["images/oel-cubierta1.png"]{
+◊bullet-list{En este libro conocerás cuáles son ◊link["/el-error-de-reducir-calorias.html"]{las verdaderas causas de la Obesidad}. 
+
+
+También explicamos la teoría hormonal de la obesidad y cómo la insulina determina nuestro peso.
+
+
+Además aprenderás como la Resistencia a la Insulina y la Obesidad causan enfermedades como Hígado Graso, Diabetes, Hipertensión, Colesterol Alto, Infartos, etc. 
+
+
+Adicionalmente conocerás qué alimentos son los que más engordan y no son saludables, independientemente de las cantidades que comas.
+
+
+Y también explicamos el tema del Ayuno Intermitente y por qué la frecuencia con la que comemos determina nuestro peso y  estado de salud.
+}}
+
+
+◊home-link["toc.html"]{contenidos}
+
+◊home-link["por-favor-paga-por-este-libro.html"]{consigue el libro}

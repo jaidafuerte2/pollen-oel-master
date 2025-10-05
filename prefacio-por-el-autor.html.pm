@@ -1,0 +1,48 @@
+#lang pollen
+
+◊(define-meta title "prefacio por el autor")
+◊(section-from-metas metas)
+
+◊margin-note{◊strong{◊em{¿Quién es el autor de este libro?}}}
+
+Muchas personas, en la actualidad, piensan que la obesidad es sólo un problema estético porque no les gusta verse en el espejo con unos rollitos extra en el abdomen o porque la ropa empieza a quedar ajustada o, definitivamente, ya no entra en nuestra voluminosa humanidad.
+
+◊margin-note{
+◊image[#:width "100%" "imagen-david.jpg"] 
+◊strong{David Villafuerte}, médico especialista en obesidad y tratstornos de la conducta alimentaria y máster en nutrición. Actualmente se desempeña como director médico de la ◊link["https://corporacioncovsa.blogspot.com/"]{Corporación Médica COVSA}. 
+
+Síguenos en redes:
+
+◊link["https://twitter.com/enlineaobesidad"]{Twitter}
+
+◊link["https://www.facebook.com/people/Obesidad-en-L%C3%ADnea/61550242826187/"]{Facebook}
+
+◊link["https://www.linkedin.com/showcase/obesidad-en-l%C3%ADnea-libro-digital"]{Linkedin}
+
+◊link["https://corporacioncovsa.blogspot.com/p/nosotros.html"]{Blogger}
+
+◊link["https://t.me/corporacioncovsa"]{Telegram}}
+
+A muchas personas, esta situación –de verse y sentirse más gordos- les aterra y causa mucha ansiedad, incluso muchos pacientes refieren que lloran cuando pasan por este momento. Sin embargo, más allá del frustrante problema estético, la obesidad es un problema de salud real, el cual lo vivo con mis pacientes desde hace varios años.
+
+Pocos meses después de terminar la medicatura rural (un año obligatorio en Ecuador ejerciendo la profesión en zonas rurales, después de graduado) empecé a trabajar como médico en una reconocida clínica (con sucursales en varios países) que atendía a personas que querían bajar de peso.
+
+Y aunque el segmento de mercado -de esta clínica- era personas que querían adelgazar por razones estéticas, también algunos pacientes llegaban con enfermedades relacionadas con la obesidad. De hecho, recuerdo muy bien a Ximena quien fue una de mis primeras pacientes y un caso iluminador. 
+
+Ximena era una paciente de 47 años, de profesión abogada y empleada pública. Ella fue un caso especial porque recuerdo que tomó el tratamiento para adelgazar –en parte- por verse más delgada pero sobre todo porque su cardiólogo le pidió que baje de peso.
+
+Ximena era una paciente hipertensa, con el colesterol y los triglicéridos por las nubes y aunque no era diabética, tenía niveles de glucosa en sangre que estaban por fuera del rango de referencia (según el laboratorio).
+
+Y claro, también padecía obesidad (no sólo según su peso) sino también porque su perímetro abdominal era excesivo. Ximena tomó un tratamiento de tres meses y medio y, al final, logró bajar quince kilos y llegó a su peso normal por lo que estaba muy feliz.
+
+Pero no sólo estaba feliz por verse más delgada sino también porque varios de sus problemas de salud desaparecieron. De hecho, ya no tenía hipertensión y dejó de tomar medicación, además los triglicéridos bajaron a niveles normales y aunque el colesterol no se normalizó, si bajó mucho.
+
+Igualmente, los niveles de glucosa bajaron y ya estaban dentro del  rango de referencia. Esto me sorprendió mucho porque yo decía para mis adentros “¿Cómo pudo Ximena mejorar también su salud simplemente adelgazando?”.
+
+Y lo que me llamó aún más la atención es que Ximena no era un caso aislado, todos los pacientes que bajaban de peso, mejoraban su salud y su perfil metabólico (los resultados de sangre) en sus exámenes médicos de control. 
+
+La forma en que adelgazar les ayuda a las personas a mejorar su salud me cautivó y me llevó a profundizar en por qué la obesidad causa tantas enfermedades y  cómo puedo ayudar a las personas a bajar de peso  y ser más saludables. 
+
+◊os{David Villafuerte} ◊em{Médico}
+
+correo: ◊em{enlineaobesidad@gmail.com}

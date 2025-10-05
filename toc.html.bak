@@ -1,0 +1,52 @@
+#lang pollen
+◊(require pollen/pagetree pollen/template sugar/coerce)
+
+◊(define-meta title "table of contents & excerpts")
+◊(section-from-metas metas)
+
+◊(let () (current-pagetree (load-pagetree "index.ptree")) "")
+
+◊(define (node->link node #:capitalize [caps? #f])
+    (define node-string (->string node))
+    (define link-name
+       (let* ([name (if (dev-mode?) 
+                       node-string
+                       (select-from-metas 'title node))]
+             [name (if caps? (capitalize-first-letter name) name)])
+         name))
+   ◊link[node-string]{◊link-name})
+
+◊(define (make-toc-subsection pagenode)
+  (define node-children (children pagenode))
+  ◊div{
+    ◊h3{◊(node->link pagenode #:capitalize #t)}
+    ◊(if node-children
+      (apply ul (map (compose1 li node->link) node-children))
+      "")})
+
+◊(apply div #:class "toc" 
+  (map make-toc-subsection '(prefacio-por-el-autor.html
+  acerca-de-este-libro.html
+  por-favor-paga-por-este-libro.html
+  dedicatoria.html
+  introduccion.html
+  el-error-de-reducir-calorias.html
+  comer-mucho-no-necesariamente-engorda.html
+  la-teoria-hormonal-de-la-obesidad.html
+  investigaciones-sobre-la-insulina.html
+  dieta-atkins-baja-en-carbohidratos.html
+  la-resistencia-a-la-insulina.html
+  diabetes-tipo-dos-y-obesidad.html
+  higado-graso-y-obesidad.html
+  y-los-edulcorantes.html
+  presion-alta-y-obesidad.html
+  colesterol-obesidad-y-trigliceridos.html
+  inflamacion-y-obesidad.html
+  artritis-y-obesidad.html
+  infartos-y-obesidad.html
+  el-miedo-a-las-grasas.html
+  proteinas-y-obesidad.html
+  carbohidratos-y-fibra.html
+  que-debemos-comer-para-adelgazar.html
+  ayuno-intermitente.html
+  prueba1.html)))

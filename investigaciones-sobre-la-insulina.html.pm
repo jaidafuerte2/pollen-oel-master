@@ -1,0 +1,19 @@
+#lang pollen
+
+◊(define-meta title "investigaciones sobre la insulina")
+◊(chapter-from-metas metas)
+
+◊margin-note{La insulina es un tratamiento para los pacientes diabéticos}
+
+◊indented{◊image[#:width "70%" #:border #f "la-insulina.jpg"]}
+
+Este tipo de investigaciones (en las que se administra insulina a los participantes y observamos los cambios en su peso) se realizan en pacientes diabéticos porque estos pacientes tienen demasiada glucosa en la sangre. Y para tratar esta enfermedad, se usa insulina con el objetivo de sacar el exceso tóxico de glucosa fuera de la circulación:
+
+◊numbered-list{
+               Hacia ◊em{los tejidos}: que necesitan glucosa para obtener energía.
+               
+
+               Hacia ◊em{el hígado}: dónde se almacenará para usos futuros.
+               
+
+               O hacia ◊em{el tejido adiposo}: dónde se almacenará como grasa.}

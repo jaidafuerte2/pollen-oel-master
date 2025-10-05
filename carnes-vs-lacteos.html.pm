@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define-meta title "carnes vs lacteos")
+◊hanging-topic[(topic-from-metas metas)]{¿Por qué son diferentes?}
+
+Pero ◊em{¿Por qué hay tanta diferencia entre la proteína cárnica y la proteína láctea?}
+
+Parece ser que los ◊em{lácteos} se diferencian de las ◊em{carnes} por el tamaño de sus porciones. Por ejemplo es común comer un bistec grande de carne o varias presas de pollo o una parrillada. Pero no es común comer un enorme pedazo de queso. Es decir, las porciones pequeñas de los lácteos nos protegen de engordar.
+
+En términos prácticos esto significa que debemos comer ◊em{proteínas animales} moderadamente (sin importar si son ◊em{carnes o lácteos}) porque son alimentos que si se comen en exceso pueden engordarnos mucho.
+
+En cambio, consumir ◊em{proteínas animales} moderadamente puede ayudarnos a adelgazar porque aumentan la ◊em{sensación de saciedad} (y esto evita que comamos demasiado).

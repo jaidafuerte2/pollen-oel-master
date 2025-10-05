@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define-meta title "como se produce la resistencia a la insulina")
+◊hanging-topic[(topic-from-metas metas)]{En la resistencia a la insulina se daña el mecanismo que saca la glucosa de la sangre}
+
+Para explicar esto podríamos volver a la analogía de las llaves y las cerraduras. Normalmente la Insulina es como una llave que encaja en una cerradura y abre varias  puertas en el hígado y los tejidos para que entre el exceso de glucosa de la sangre.
+
+◊indented{◊image[#:width "70%" #:border #f "insulina-llave.png"]}
+
+Pero en el caso de la resistencia a la insulina, la cerradura está dañada y ya no puede abrir la puerta.  Así que el exceso de glucosa se queda en la sangre porque no puede entrar a los tejidos ni al hígado.
+
+◊indented{◊image[#:width "70%" #:border #f "resistencia-insulina-llave.png"]}

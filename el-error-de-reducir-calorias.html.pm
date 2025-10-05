@@ -1,0 +1,22 @@
+#lang pollen
+
+◊(define-meta title "el error de reducir calorias")
+◊(chapter-from-metas metas)
+
+◊margin-note{el efecto rebote es muy común con las dietas hipocalóricas}
+
+◊indented{◊image[#:border #f #:width "100%" "reducir-calorias.jpg"]}
+
+Entonces, como expliqué en la ◊xref{introduccion}, muchas veces pensamos que engordamos por comer demasiado. Y aplicamos esta misma lógica a la pérdida de peso y creemos que comer poco nos ayudará a adelgazar. 
+
+Pero esto no suele funcionar ◊em{porque el peso de una persona no solo depende de la cantidad de comida} sino también de:
+
+◊numbered-list{
+               El tipo de alimentos 
+
+               
+               Y de la frecuencia con la que come.}
+
+Por eso muchas personas intentan bajar de peso comiendo poco pero suelen fracasar. O a veces logran adelgazar un poco por corto tiempo. Pero luego vuelven a engordar.
+
+Esto sucede porque reducir la cantidad de comida que ingerimos vuelve lento el metabolismo y esto nos hace engordar. De hecho, las investigaciones más importantes sobre el tema, concluyen que concentrarnos sólo en reducir calorías no ayuda a perder peso.

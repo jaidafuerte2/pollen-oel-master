@@ -1,0 +1,8 @@
+#lang pollen
+
+◊(define-meta title "calorias y noradrenalina")
+◊hanging-topic[(topic-from-metas metas)]{Las calorías estimulan a la noradrenalina}
+
+Adicionalmente, no sólo la insulina estimula la producción de insulina. 
+
+También las personas obesas suelen comer en exceso, e ingerir muchas ◊em{calorías} también estimula al sistema nervioso simpático para que libere más ◊em{noradrenalina}, lo que aumenta la presión arterial.

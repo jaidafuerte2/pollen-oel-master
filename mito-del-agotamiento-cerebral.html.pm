@@ -1,0 +1,16 @@
+#lang pollen
+
+◊(define-meta title "mito del agotamiento cerebral")
+◊hanging-topic[(topic-from-metas metas)]{el error de creer que el cerebro solo funciona con glucosa}
+
+Otro mito es que ayunar le restará energía al ◊em{cerebro} porque supuestamente este órgano solo funciona con glucosa.
+
+Sin embargo, si esto fuera cierto, desde la época del paleolítico, ya estaríamos extintos porque en períodos de escasez no podríamos usar nuestro intelecto, la única ventaja que tenemos frente a los animales salvajes.
+
+La realidad es que el ◊em{cerebro} también puede usar ◊em{cetonas} para obtener energía. Las cetonas se producen a partir de ◊em{las grasas} (o triglicéridos) que libera el tejido adiposo cuando ayunamos.
+
+◊indented{◊image[#:width "50%" #:border #f "cerebro.jpg"]}
+
+Estas cetonas pueden atravesar la barrera hematoencefálica. Y por eso llegan a  suministrar hasta el ◊em{75%} de la energía que requiere el cerebro.
+
+Además ◊em{las cetonas} también ayudan a controlar el hambre. Por eso, durante el ayuno, las personas controlan fácilmente el apetito. Y posteriormente pueden comer un poco más, pero no tanto como para compensar el período de ayuno. ◊em{Esto genera un déficit calórico total que ayuda a adelgazar}.

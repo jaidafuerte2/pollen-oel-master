@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "infartos y obesidad")
+◊(chapter-from-metas metas)
+
+◊margin-note{Una persona obesa tiene más riesgo de padecer infartos de corazón y derrames cerebrales}
+
+◊image[#:width "100%" #:border #f "infartos.jpg"]
+
+Sin embargo, ◊link["inflamacion-y-obesidad.html"]{◊em{el estado inflamatorio de la obesidad}} no sólo causa artritis sino también ◊em{infartos} (muerte de tejidos y órganos por falta de circulación y oxígeno) que pueden llegar a ser más incapacitantes (que la artritis) y además son mortales.
+
+De hecho, actualmente sabemos que hay una asociación significativa entre la obesidad y ◊em{los infartos cardíacos y cerebrales} o más conocidos como derrames.
+
+Pero ¿◊em{Por qué los infartos se producen con tanta frecuencia en las personas obesas}?

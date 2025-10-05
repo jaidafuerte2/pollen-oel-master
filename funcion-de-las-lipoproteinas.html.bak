@@ -1,0 +1,26 @@
+#lang pollen
+
+◊(define-meta title "funcion de las lipoproteinas")
+◊hanging-topic[(topic-from-metas metas)]{Transportar colesterol y triglicéridos}
+
+Así que, como estos nombres son confusos, es mejor usar el siguiente enfoque para entender cuál es la ◊em{función de las lipoproteínas}:
+
+El exceso de insulina de una persona obesa estimula al hígado para que transforme el exceso de glucosa en grasas o triglicéridos, que se enviarán al tejido adiposo (o graso) por medio de ◊em{lipoproteínas VLDL}.
+
+(Las lipoproteínas VLDL  tienen ◊em{mucho colesterol y muchos triglicéridos}.)
+
+◊indented{◊image[#:width "70%" #:border #f "lipoproteina-vldl.jpg"]}
+
+Cuando estas ◊em{lipoproteínas VLDL} dejan sus triglicéridos en el tejido adiposo, se transforman en liproproteínas LDL, que ahora tienen pocos triglicéridos, pero siguen teniendo mucho colesterol.
+
+◊indented{◊image[#:width "70%" #:border #f "lipoproteina-ldl.jpg"]}
+
+Por eso la función de las ◊em{lipoproteínas LDL} es llevar colesterol hacia todos los órganos del cuerpo para que las membranas de las células se formen o regeneren porque las membranas de todas las células del cuerpo tienen colesterol.
+
+◊margin-note{◊image[#:width "80%" #:border #f "funciones-basicas.jpg"]}
+
+◊indented{◊image[#:width "70%" #:border #f "membrana-colesterol.jpg"]}
+
+◊margin-note{◊image[#:width "100%" #:border #f "arteria.jpg"]}
+
+Incluso las ◊em{membranas de las células de las arterias} tienen colesterol. Así que cuando estas ◊em{células} sufren lesiones, las lipoproteínas LDL llevan su colesterol del tejido adiposo hacia las ◊em{arterias} para que sus ◊em{membranas} se regeneren.

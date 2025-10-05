@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "comer menos grasas procesadas")
+◊hanging-topic[(topic-from-metas metas)]{porque no son saliudables}
+
+En cambio debemos evitar las ◊em{grasas procesadas} como ◊em{el aceite de maíz o de soya} porque son ◊xref{grasas con omega seis} (muy inflamatorias, por eso debemos limitar su consumo, aunque no debemos evitarlas por completo). 
+
+◊indented{◊image[#:width "50%" #:border #f "aceite-maiz.png"]}
+
+En cambio, ◊xref{algunas grasas son malas} para la salud y debemos evitarlas casi por completo. Este es el caso de las ◊em{grasas trans saturadas atificialmente} que se encuentran en ◊em{las mantecas vegetales y sobre todo en la margarina}.
+
+◊indented{◊image[#:width "50%" #:border #f "margarina-grasa-mala.png"]}
+
+Estas grasas trans si son  muy tóxicas porque elevan los niveles de ◊em{colesterol LDL} y aumentan el riesgo de padecer ◊em{infartos}. 

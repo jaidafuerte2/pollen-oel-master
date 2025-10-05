@@ -1,0 +1,14 @@
+#lang pollen
+
+◊(define-meta title "presion alta y obesidad")
+◊(chapter-from-metas metas)
+
+◊margin-note{El exceso de tejido adiposo e insulina pueden aumentar la presión}
+
+◊indented{◊image[#:width "100%" #:border #f "obesidad-presion-alta.jpg"]}
+
+Otra enfermedad muy frecuente en las personas obesas es la Hipertensión. Sobre todo el ◊em{tamaño del abdomen} tiene una relación directa con esta enfermedad.
+
+Por eso las investigaciones muestran que entre el ◊em{60 y 70%} de los casos de hipertensión se explican por tener demasiado ◊em{tejido adiposo o graso}. Y esto se produce porque el propio tejido adiposo produce sustancias que elevan la ◊em{presión arterial}.
+
+Además, el ◊em{exceso de insulina} de las personas obesas puede aumentar la presión por varios mecanismos. (¿◊xref{que hace la insulina} para engordarnos?)

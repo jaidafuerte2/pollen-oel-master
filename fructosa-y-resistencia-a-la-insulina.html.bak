@@ -1,0 +1,24 @@
+#lang pollen
+
+◊(define-meta title "fructosa y resistencia a la insulina")
+◊hanging-topic[(topic-from-metas metas)]{La fructosa llena de grasa al hígado}
+
+La ◊em{fructosa} sólo se metaboliza en el ◊em{hígado} y producto de este metabolismo se producen ◊em{triglicéridos o grasas} que, en pequeñas cantidades, no dan problemas porque pueden salir del hígado.
+
+Pero si comemos mucha fructosa, se producen un montón de grasas que se quedan acumuladas en el propio hígado, y este órgano pierde su capacidad de almacenar glucosa (porque ya está lleno de grasa).
+
+◊indented{◊image[#:width "50%" #:border #f "higado-graso.jpg"]}
+
+◊subhead{Hígado graso y resistencia a la insulina.}
+
+Así que, como un hígado graso pierde su capacidad de almacenar glucosa, mucha glucosa se queda acumulada en la sangre, pero esto  es tóxico para el organismo.
+
+Así que para forzar la entrada de –al menos- un poco de glucosa a un hígado lleno grasa, el páncreas produce insulina extra.
+
+◊indented{◊image[#:width "80%" #:border #f "insulina-extra.jpg"]}
+
+Así que ahora -no sólo- tenemos en la sangre mucha ◊em{glucosa} sino también mucha ◊em{insulina}. Los dos componentes de la ◊em{resistencia a la insulina}.
+
+◊indented{◊image[#:width "80%" #:border #f "resistencia-insulina-igual.jpg"]}
+
+Por eso decimos que el hígado graso es una condición que empeora ◊em{la obesidad y la resistencia a la insulina}.

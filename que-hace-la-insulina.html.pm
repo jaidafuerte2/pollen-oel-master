@@ -1,0 +1,23 @@
+#lang pollen
+
+◊(define-meta title "que hace la insulina")
+◊hanging-topic[(topic-from-metas metas)]{Lleva el exceso de glucosa al tejido adiposo}
+
+La insulina lleva el exceso de glucosa fuera de la sangre hacia los tejidos que necesitan glucosa para obtener energía como los músculos o el corazón. Además, la insulina también lleva el exceso de glucosa de la sangre hacia el hígado  donde se almacenará para usos futuros.
+
+Podríamos pensar en la insulina como unas llaves que encajan en unas cerraduras y abren varias puertas  que están en los tejidos o el hígado para que pueda entrar el exceso de glucosa de la sangre.
+
+◊indented{◊image[#:width "70%" #:border #f "insulina-llave.jpg"]}
+
+Pero la capacidad de almacenamiento del hígado es limitada, y cuando se agota, la insulina transforma el exceso de glucosa en grasa y la lleva al tejido graso:
+
+◊margin-note{◊image["obesidad-abdominal.jpg"]}
+
+◊numbered-list{
+               Subcutáneo: bajo la piel o
+               
+               
+               Visceral: entre las vísceras} 
+
+Y así engordamos.
+

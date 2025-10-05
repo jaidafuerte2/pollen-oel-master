@@ -1,0 +1,21 @@
+#lang pollen
+
+◊(define-meta title "tipos de lipoproteinas")
+◊hanging-topic[(topic-from-metas metas)]{Lipoporoteínas VLDL, LDL y HDL}
+
+En nuestro cuerpo hay varios tipos de ◊em{lipoproteínas} dependiendo de su cantidad de ◊em{colesterol y triglicéridos}.
+
+Ahora nos interesan sólo 3 tipos de lipoproteínas que se les designa por sus siglas en inglés como:
+
+◊numbered-list{
+◊em{VLDL}: o de muy baja densidad.
+
+ 
+◊em{LDL}: o de baja densidad y
+
+
+◊em{HDL}: o de alta densidad.}
+
+Estos nombres no son arbitrarios pero no nos ayudan a entender qué hacen estas lipoproteínas.
+
+◊center{◊font-scale[3]{?}}

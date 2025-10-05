@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define-meta title "introduccion al higado graso")
+◊hanging-topic[(topic-from-metas metas)]{Incluso el 90% de obesos mórbidos tienen hígado graso}
+
+◊em{El azúcar} es un ◊em{carbohidrato muy procesado} que se absorbe rápidamente en el intestino y se metaboliza en el ◊em{hígado} llenándolo de grasa.
+
+◊indented{◊image[#:width "80%" #:border #f "azucar-higado-graso.jpg"]}
+
+Esto reduce la capacidad de almacenar glucosa del hígado (porque ya está lleno de grasa), y como no puede entrar, mucha glucosa se queda acumulada en la sangre. Entonces para reducir este exceso de glucosa, el páncreas produce ◊link["que-hace-la-insulina.html"]{insulina} extra y engordamos (Ver ¿◊xref{que hace la insulina}?).
+
+Por eso es tan frecuente el ◊em{hígado graso} en ◊em{personas obesas}. De hecho entre el ◊em{80 y 90%} de personas con ◊em{obesidad mórbida} tienen ◊em{hígado graso}. Y por eso el azúcar es el alimento que más engorda

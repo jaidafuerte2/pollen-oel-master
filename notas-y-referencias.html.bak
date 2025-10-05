@@ -1,0 +1,67 @@
+#lang pollen
+
+◊(define-meta title "notas y referencias")
+◊(section-from-metas metas)
+
+◊indented{◊image[#:width "70%" #:border #f "articulos-covsa.png"]}
+
+A continuación puedes encontrar material que tiene más explicaciones sobre cada sección del libro. Esto puede ayudar a comprender ciertos temas, sobre todo si algún capítulo no quedó claro.
+
+El título de cada tema se enlaza con ◊link["https://corporacioncovsa.blogspot.com/p/publicaciones.html"]{artículos de la Corporación Médica COVSA}. Y al final de cada artículo están las referencias bibliográficas e investigaciones que ayudaron a desarrollar el contenido del presente libro y de los ◊link["https://corporacioncovsa.blogspot.com/p/publicaciones.html"]{artículos de la Corporación Médica COVSA}.
+
+◊numbered-list{
+◊link["https://corporacioncovsa.blogspot.com/2021/01/tema-3-el-error-de-la-reduccion-calorica.html"]{El error de reducir calorías}
+
+ 
+◊link["https://corporacioncovsa.blogspot.com/2021/01/tema-5-la-paradoja-de-la.html"]{Comer mucho no necesariamente engorda}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2021/02/actualmentesabemos-que-la-obesidad-no.html"]{La teoría hormonal de la obesidad}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2021/02/tema-7-la-insulina.html"]{Investigaciones sobre la insulina}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2021/02/tema-9-la-dieta-atkins-baja-en.html"]{Dieta Atkins baja en carbohidratos}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2022/09/obesidad-y-resistencia-la-insulina.html"]{La resistencia a la insulina}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2022/10/diabetes-tipo-2-y-su-relacion-con-la.html"]{Diabetes tipo dos y obesidad}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2022/09/higado-graso-y-su-relacion-con-la.html"]{Hígado graso y obesidad}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2021/04/tema-15-las-bebidas-light-y-la-obesidad.html"]{¿Y los edulcorantes?}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2022/10/hipertension-y-su-relacion-con-la.html"]{Presión alta y obesidad}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2022/10/el-colesterol-la-obesidad-y-los.html"]{Colesterol obesidad y triglicéridos}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2022/09/el-estado-inflamatorio-de-la-obesidad.html"]{Inflamación y obesidad}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2022/12/la-artritis-y-su-relacion-con-la.html"]{Artritis y obesidad}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2022/11/infartos-cardiacos-obesidad-y-derrames.html"]{Infartos y obesidad}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2021/05/tema-18-el-miedo-las-grasas-primera.html"]{El miedo a las grasas}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2021/04/tema-17-las-proteinas-y-su-relacion-con.html"]{Proteínas y obesidad}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2021/04/tema-16-los-carbohidratos-la-obesidad-y.html"]{Carbohidratos y fibra}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2021/05/tema-20-que-deberiamos-comer-para.html"]{¿Qué debemos comer para adelgazar?}
+
+
+◊link["https://corporacioncovsa.blogspot.com/2021/05/tema-19-el-ayuno-intermitente.html"]{Ayuno intermitente}}

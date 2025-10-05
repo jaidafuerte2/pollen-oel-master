@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define-meta title "con que frecuencia comer")
+◊hanging-topic[(topic-from-metas metas)]{para ser saludables}
+
+Lo que pasa es que si comemos con mucha frecuencia liberamos constantemente mucha insulina (la hormona que aumenta nuestras reservas de grasa corporal -Ver ¿◊xref{que hace la insulina}?-). Esto nos engorda y produce resistencia a esta hormona, resistencia que se caracteriza por ◊em{altos niveles de insulina y glucosa}.
+
+◊indented{◊image[#:width "85%" #:border #f "resistencia-insulina-igual.jpg"]}
+
+Y como vimos antes, ◊xref{la resistencia a la insulina} y los altos niveles de esta hormona -no solo- causan obesidad sino también enfermedades como ◊link["diabetes-tipo-dos-y-obesidad.html"]{◊em{diabetes}}, ◊link["higado-graso-y-obesidad.html"]{◊em{hígado graso}}, ◊link["presion-alta-y-obesidad.html"]{◊em{hipertensión}}, ◊link["colesterol-obesidad-y-trigliceridos.html"]{◊em{colesterol y triglicéridos elevados}}, entre otras.
+
+Por eso, si queremos adelgazar, tener una buena salud y evitar ◊xref{la resistencia a la insulina}, debemos bajar y normalizar los niveles –en sangre- de esta hormona. Y la mejor forma de hacerlo es absteniéndonos de comer por completo por largos períodos de tiempo. Es decir, ayunar.

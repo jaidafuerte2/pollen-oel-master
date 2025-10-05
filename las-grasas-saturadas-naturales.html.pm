@@ -1,0 +1,12 @@
+#lang pollen
+
+◊(define-meta title "las grasas saturadas naturales")
+◊hanging-topic[(topic-from-metas metas)]{de origen animal son saludables}
+
+Probablemente por esto se satanizaron a las ◊em{grasas saturadas naturales de origen animal} (presentes en los lácteos, los huevos, la manteca de chancho, y algunas carnes animales) pues, en varias investigaciones, se estudiaron junto con las ◊link["algunas-grasas-son-malas.html"]{grasas trans saturadas artificiales}, llegando a la conclusión de que ambas son malas para la salud.
+
+◊indented{◊image[#:width "40%" #:border #f "grasas-saturadas-animales.jpg"]}
+
+Pero cuando se las estudió por separado, se observó que las ◊em{grasas saturadas naturales de origen animal} –incluso- nos protegen de derrames cerebrales.
+
+Esto no quiere decir que deberíamos comer estas ◊em{grasas saturadas de origen animal} indefinidamente porque todos los alimentos pueden engordarnos si se comen en exceso. Pero consumir grasas de origen animal moderadamente es saludable y puede ayudarnos a adelgazar porque aumentan la sensación de saciedad (por ◊xref{las incretinas}).

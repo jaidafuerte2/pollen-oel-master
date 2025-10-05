@@ -1,0 +1,10 @@
+#lang pollen
+
+◊(define-meta title "y los edulcorantes")
+◊(chapter-from-metas metas)
+
+◊margin-note{Endulzantes artificiales que no son azúcar}
+
+◊indented{◊image[#:width "100%" #:border #f "edulcorantes.png"]}
+
+Cuando hablamos de edulcorantes nos referimos a todos los endulzantes artificiales que ◊em{no son azúcar} como: estevia, sacarina, NutraSweet, Sweet’n Low, Splenda, entre otros. Y dado que son muy populares y se usan desde hace varias décadas, cabe preguntarnos ◊em{¿Realmente son saludables y nos ayudan a adelgazar?}

@@ -1,0 +1,10 @@
+#lang pollen
+
+◊(define-meta title "higado graso y obesidad")
+◊(chapter-from-metas metas)
+
+◊margin-note{El hígado se llena de grasa cuando metaboliza la fructosa del azúcar}
+
+◊indented{◊image[#:width "90%" #:border #f "higado-graso.jpg"]}
+
+Hay otra enfermedad muy relacionada con la obesidad que es el ◊em{hígado graso}. Esta es una condición que empeora ◊xref{laresistencia a la insulina} y se produce por ◊em{comer mucho azúcar.}
