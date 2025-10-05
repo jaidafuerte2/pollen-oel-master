@@ -1,46 +1,22 @@
-## © 2008–19 Matthew Butterick
+# Obesidad en Línea - Aprende a Comer para Adelgazar y ser Saludable - Libro Digital
 
-This is the source code for an earlier version of the Typography for Lawyers [web-based book](http://typographyforlawyers.com), which is an abbreviated version of the [paperback](http://typo.la/oc).
+Este repositorio contiene el código fuente del libro Obesidad en Línea, creado en Pollen (Racket).  
+Incluye:
 
-The website is built with [Pollen](http://pollenpub.com). I’m sharing this code as a Pollen sample project. Because when I’m trying to learn a new programming tool, I prefer to study real projects rather than synthetic examples.
+- Archivos `.pm` y otros de Pollen
+- HTML, CSS y JS para la versión web
+- Imágenes y contenido propios del libro
 
-To run this project, you need to first install [Racket](https://github.com/racket/racket) and [Pollen](https://git.matthewbutterick.com/mbutterick/pollen).
+El libro se puede leer en línea sin costo en esta dirección: (https://obesidadenlinea.rf.gd/index.html)
 
-## Installation
+## Créditos
 
-Using Racket 6.0+, install from the command line:
+- Este proyecto utiliza la estructura, HTML, CSS y JS inspirados/adaptados del repositorio de Matthew Butterick [pollen-tfl](https://github.com/mbutterick/pollen-tfl) con permiso explícito del autor.  
+- Las fuentes usadas (Source Serif 4, Fira Sans, Fira Mono, Cooper Hewitt) están licenciadas bajo la OFL (Open Font License).
 
-    raco pkg install pollen-tfl
-    
-And update like so:
+## Uso
 
-    raco pkg update --update-deps pollen-tfl
-
-
-## Documentation
-    
-Scribble documentation is provided for the main `pollen.rkt` file. (Search for the `pollen-tfl` module in the Racket docs.)
-
-Other source files contain comments.
-
-You can also read the docs [online, right now.](http://docs.racket-lang.org/pollen-tfl/)
+- Este repositorio es para fines educativos y personales.  
+- No contiene contenido protegido de Butterick (textos, PDFs o imágenes de *Typography for Lawyers*).
 
 
-## But this repo is not open source
-
-This repo contains fonts licensed under the OFL (= Source Serif 4, Fira Sans, Fira Mono, and Cooper Hewitt).
-
-Everything else in this repository belongs to me and not you.
-
-I give you permission to use this repo to learn about Pollen, including running and modifying the files.
-
-I also give you permission to reuse or adapt any of the Racket & Pollen source code, or JavaScript / CSS / HTML, for your own Racket & Pollen projects.
-
-I do **NOT** give you permission to reuse any of the content of this web-based book (including text, images, and PDFs). Why not? Because that’s the stuff I sell for money so that I can keep [Pollen](http://pollenpub.com) itself free. Let’s not mess with a good thing.
-
-If you have questions not covered here, please post them in the Pollen forum: https://forums.matthewbutterick.com/c/pollen/
-
-
-## Project status
-
-Complete. Maintained but no further updates planned.
